@@ -18,11 +18,15 @@
 > Replace the links below with your real screenshots.
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450?text=WanderLust+Homepage+Screenshot" />
+  <img src="https://github.com/srivastavHimanshu4503/WanderLust-Project/blob/main/websiteImages/home.png" />
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450?text=Listing+Details+Screenshot" />
+  <img src="https://github.com/srivastavHimanshu4503/WanderLust-Project/blob/main/websiteImages/signup.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/srivastavHimanshu4503/WanderLust-Project/blob/main/websiteImages/login.png" />
 </p>
 
 ---

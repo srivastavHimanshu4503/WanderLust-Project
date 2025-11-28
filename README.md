@@ -13,9 +13,14 @@
 
 ---
 
-## 📸 Project Preview (Add Your Screenshots Here)
+🚀 **Live Website:**  
+👉 https://wanderlust-project-5hsm.onrender.com
 
-> Replace the links below with your real screenshots.
+---
+
+## 📸 Project Preview
+
+> Website Screenshots
 
 <p align="center">
   <img src="https://github.com/srivastavHimanshu4503/WanderLust-Project/blob/main/websiteImages/home.png" />
